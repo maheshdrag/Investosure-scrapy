@@ -1,0 +1,6 @@
+Run fp2.py
+Windows required to run it.
+i.pdf is converted to i.html which is scraped for data.
+please clear otxt.txt as it is written in append mode by fp2.py
+
+regards mahesh
